@@ -1,0 +1,18 @@
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\bin\Debug\SDES_Project.exe
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\bin\Debug\SDES_Project.pdb
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\obj\Debug\SDES_Project.csproj.AssemblyReference.cache
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\obj\Debug\SDES_Project.MainFrm.resources
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\obj\Debug\SDES_Project.Properties.Resources.resources
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\obj\Debug\SDES_Project.csproj.GenerateResource.cache
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\obj\Debug\SDES_Project.csproj.CoreCompileInputs.cache
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\obj\Debug\SDES_Project.exe
+C:\Users\vintall\Desktop\SDES_Project\SDES_Project\obj\Debug\SDES_Project.pdb
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\obj\Debug\SDES_Project.csproj.AssemblyReference.cache
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\obj\Debug\SDES_Project.MainFrm.resources
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\obj\Debug\SDES_Project.Properties.Resources.resources
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\obj\Debug\SDES_Project.csproj.GenerateResource.cache
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\obj\Debug\SDES_Project.csproj.CoreCompileInputs.cache
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\obj\Debug\SDES_Project.exe
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\obj\Debug\SDES_Project.pdb
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\bin\Debug\SDES_Project.exe
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_3\SDES_Project\SDES_Project\bin\Debug\SDES_Project.pdb
