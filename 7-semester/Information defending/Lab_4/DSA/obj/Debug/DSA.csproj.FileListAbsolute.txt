@@ -1,0 +1,8 @@
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\bin\Debug\DSA.exe.config
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\bin\Debug\DSA.exe
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\bin\Debug\DSA.pdb
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\obj\Debug\DSA.csproj.SuggestedBindingRedirects.cache
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\obj\Debug\DSA.exe
+D:\Git\Labs\Labs_4_course\7-semester\Information defending\Lab_4\DSA\obj\Debug\DSA.pdb
