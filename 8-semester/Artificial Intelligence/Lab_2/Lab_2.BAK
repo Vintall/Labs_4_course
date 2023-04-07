@@ -1,0 +1,47 @@
+Domains
+
+name = string
+
+Facts
+
+
+
+PREDICATES 
+
+nondeterm repeat
+nondeterm print
+
+nondeterm fill_db
+nondeterm write_db_to_file
+nondeterm read_db_from_file
+nondeterm find_solution
+
+Clauses
+
+fill_db :- write("Filling Db").
+write_db_to_file :- write("Writing db to file").
+read_db_from_file :- write("Reading db from file").
+find_solution :- write("Finding solution").
+
+repeat.
+repeat:- repeat.
+
+print:- repeat,
+ 
+write("\n\n"),
+write("1) Fill DB \n"), 
+write("2) Write DB to file \n"),
+write("3) Read DB from file \n"),
+write("4) Find Solution \n"),
+write("5) Exit \n \n"),
+
+readchar(X),
+(X = '1', write('1'), fill_db, fail);
+(X = '2', write('2'), write_db_to_file, fail);
+(X = '3', write('3'), read_db_from_file, fail);
+(X = '4', write('4'), find_solution, fail);
+(X = '5', nl).
+
+Goal
+
+print.

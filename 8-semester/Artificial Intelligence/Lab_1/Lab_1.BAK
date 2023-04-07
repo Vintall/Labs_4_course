@@ -1,0 +1,33 @@
+Domains
+name = string
+Facts
+women(string)
+man(string)
+
+%       husband, wife
+marriage(string, string)
+%      parent, child
+parent(string, string)
+PREDICATES 
+
+% Husband, Wife
+nondeterm mother_in_law(name, name, name)
+
+
+Clauses
+
+women("Ann").
+women("Kate").
+man("John").
+man("Bob").
+
+parent("Bob", "Kate").
+parent("Ann", "Kate").
+
+marriage("Bob", "Ann").
+marriage("John", "Kate").
+
+mother_in_law(A, B, C) :- marriage(A, B), parent(C, B), women(C).
+
+Goal
+mother_in_law(Y, _, X).

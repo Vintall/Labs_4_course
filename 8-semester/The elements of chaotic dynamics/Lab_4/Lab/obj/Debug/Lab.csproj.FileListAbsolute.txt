@@ -1,0 +1,11 @@
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\bin\Debug\Lab.exe.config
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\bin\Debug\Lab.exe
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\bin\Debug\Lab.pdb
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.csproj.AssemblyReference.cache
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.csproj.SuggestedBindingRedirects.cache
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.Form1.resources
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.Properties.Resources.resources
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.exe
+D:\Git\Labs\Labs_4_course\8-semester\The elements of chaotic dynamics\Lab_4\Lab\obj\Debug\Lab.pdb
