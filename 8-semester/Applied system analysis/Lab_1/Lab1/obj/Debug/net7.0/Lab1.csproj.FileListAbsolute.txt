@@ -1,0 +1,15 @@
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\bin\Debug\net7.0\Lab1.exe
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\bin\Debug\net7.0\Lab1.deps.json
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\bin\Debug\net7.0\Lab1.dll
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\bin\Debug\net7.0\Lab1.pdb
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.csproj.AssemblyReference.cache
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.dll
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.pdb
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+D:\Git\Labs\Labs_4_course\8-semester\Applied system analysis\Lab_1\Lab1\obj\Debug\net7.0\ref\Lab1.dll
