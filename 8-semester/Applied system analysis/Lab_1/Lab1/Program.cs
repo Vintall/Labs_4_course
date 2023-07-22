@@ -125,7 +125,7 @@ public class MyProgram
     public static List<Customer> freeCustomers = new();
     public MyProgram() => StartSimulation();
 
-    const int simulationTime = 5 * 60 * 60; //h -> m -> s
+    const int simulationTime = 1 * 60 * 60; //h -> m -> s
     int currentTime = simulationTime;
 
     List<Worker> workers = new()

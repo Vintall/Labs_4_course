@@ -1,24 +1,47 @@
-% Define the problem
-directed_edge(a, b, 3).
-directed_edge(a, c, 5).
-directed_edge(b, c, 1).
-directed_edge(b, d, 6).
-directed_edge(c, d, 2).
+Domains
 
-% Recursive predicate to find the shortest path
-shortest_path(Start, End, Path, Length) :-
-    % Base case: when the start and end nodes are the same, return the path and its length
-    Start == End,
-    Path = [End],
-    Length = 0.
+name = string
+path = list(node)
+cost = nonneg
+index = nonneg
+list = list(node)
 
-shortest_path(Start, End, Path, Length) :-
-    directed_edge(Start, Next, EdgeLength),
-    not(member(Next, Path)),  % Avoid cycles
-    shortest_path(Next, End, [Next | Path], SubLength),
-    CurrentLength is SubLength + EdgeLength,
-    (Length == nil ; CurrentLength < Length),
-    Length = CurrentLength.
+PREDICATES 
 
-?- shortest_path(a, d, Path, Length).
-% Returns: Path = [a, b, c, d], Length = 6
+nondeterm tsp(Path, Cost)
+nondeterm city(symbol, integer, integer)
+nondeterm element(Index, List, Element).
+
+Clauses
+
+city(a, 0, 0).
+city(b, 1, 0).
+city(c, 0, 1).
+city(d, 1, 1).
+
+tsp(Path, Cost) :-
+    findall(City, city(City, _, _), Cities),
+    element(0, Cities, Start),
+    delete(Cities, Start, Remaining),
+    tsp([Start], Remaining, Start, Path, Cost).
+
+tsp(Path, [], Start, [Start], 0) :- !.
+
+tsp(Path, Remaining, Start, FinalPath, Cost) :-
+    member(Next, Remaining),
+    delete(Remaining, Next, NewRemaining),
+    city(Start, X1, Y1),
+    city(Next, X2, Y2),
+    Distance is sqrt((X2 - X1) ** 2 + (Y2 - Y1) ** 2),
+    tsp([Next | Path], NewRemaining, Next, TempPath, TempCost),
+    CurrentCost is TempCost + Distance,
+    (Cost == nil ; CurrentCost < Cost),
+    FinalPath = TempPath,
+    Cost = CurrentCost.
+
+element(0, [Head | _], Head).
+element(I, [_ | Tail], X) :- I > 0, J is I - 1, element(J, Tail, X).
+
+Goal
+
+tsp(Path, Cost).
